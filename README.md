@@ -22,6 +22,8 @@ Created a scatter plot of the t-SNE output. Looks like there are 5 distinct clus
 
 scatterPlot
 
+![alt text](https://github.com/SrideviMadduri/unsupervised-machine-learning-challenge/blob/main/Images/download%20(1).png)
+
 
 
 ## Part 3: Perform a Cluster Analysis with K-means
@@ -33,6 +35,7 @@ Determined where the elbow of the plot is, and at which value of k it appears.
 
 elbowCurve
 
+![alt text](https://github.com/SrideviMadduri/unsupervised-machine-learning-challenge/blob/main/Images/download.png)
 
 
 ## Part 4: Make a Recommendation
