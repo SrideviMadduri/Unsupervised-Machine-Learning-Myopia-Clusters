@@ -39,4 +39,4 @@ elbowCurve
 
 
 ## Part 4: Make a Recommendation
-The elbow curve  shows that the patients can be grouped into 5 or 6 clusters. I would recommend to group the patients into 5 clusters because the elbow curve is more flat after 5 and we may be over fitting the data if we group the patients into 6 clusters.
+The elbow curve  shows that the patients can be grouped into 5 clusters. I think  we should  group the patients into 5 clusters because the elbow curve is more flat after 5 .
